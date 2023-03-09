@@ -101,6 +101,7 @@ nav #c div:hover {
     background-image: url(spotifybg.jpg);
     background-position: center;
     background-size: contain;
+    background-repeat: no-repeat;
     display: flex;
 }
 #mid img{
