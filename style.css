@@ -98,7 +98,7 @@ nav #c div:hover {
 #mid{
     border-bottom: 5px solid rgba(123, 8, 255, 0.483);
     height: 700px;
-    background-image: url(/bg.jpeg);
+    background-image: url(spotifybg.jpg);
     background-position: center;
     background-size: contain;
     display: flex;
